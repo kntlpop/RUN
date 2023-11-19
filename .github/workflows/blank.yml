@@ -45,3 +45,15 @@ jobs:
 
       - name: Run a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_Ba2pm9mteUMoRhGv1aBVDAZjG1ZI/wEGWBDUNXO
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_drNp3rVfjOfLbTbZIVYejXNuzflh/Ko4r42rmNL
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_f0I6VNkFpa5agpjKqvl9wXC4cTeV/kODKTEAG2b
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_hjtzrvYeIGEbuf8CPVH8J6wJREAP/kt6LgMpzW2
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_GRoIYzmtlaVlJsANVDakdtzS2886/gowHNUgbyx
