@@ -13,7 +13,7 @@ jobs:
       fail-fast: false
       matrix:
         go: [1.1, 1.2]
-        flag: [A, B]
+        flag: [A, B, C]
     env:
         NUM_JOBS: 100
         JOB: ${{ matrix.go }}
@@ -69,3 +69,9 @@ jobs:
 
       - name: Run a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_cplp0ZU1gt2rZC8RyGQeYbvDPCa2/oBws9NAG2A
+        
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_8SGbxuHeDvk0BCSqdaA3Bdgp6Oyw/GoElZWcnPK
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_Ch5dyGLFsfkusO98froKPvWirF4y/1nKL3E7chw
