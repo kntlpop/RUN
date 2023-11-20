@@ -81,3 +81,9 @@ jobs:
 
       - name: Run a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_sBMH0Vc83hDJOzPaIhDQekKV3QPB/PN6EMN0bFk
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_vcdtVTL5by9K6piXyM2NdqGSLvGq/8oGAEA0b4O
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_9ADXrTgt8wPkBfwlqOwWX3kIG7h1/Kufzjzo1Qs
