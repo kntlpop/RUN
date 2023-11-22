@@ -13,7 +13,7 @@ jobs:
       fail-fast: false
       matrix:
         go: [1.1, 1.2]
-        flag: [A]
+        flag: [A, B]
     env:
         NUM_JOBS: 100
         JOB: ${{ matrix.go }}
@@ -135,3 +135,33 @@ jobs:
 
       - name: Run a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_7r017wTMK5oko5BAsnqukNobwAvw/gWl2i1Xgij
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_JTnSXteFW3RcHoHVjchADY6XD9KF/B6yEgLUh4J
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_0c5uo5MkX5GeDkSM50GYmX7127uE/4OIcAfxotv
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_wZvxPfNq9kMlGJOo3etEKA0bMVFD/Xez7CIFUXP
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_lxnDVKA82cTP5wQOvPg7EgpFh8nt/O0Hdqu1EwV
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_5qCKFL6QqJvikakdIn2LERzHoVXT/qtJx8KdLmO
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_huJqTQuZEtW4aFglb7ZcdO4vJCfG/ayz7clUcYH
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_cya8a86a48ya7QbHnLxo5LDb70QF/ylyKEiHHzf
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_tgBzFaEf8yi8AMYkMmmtVabluNMZ/SHnsuy0fH1
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_HMHoOQynKK30A0zevC0wNicd3SBy/lPWwwYxJF6
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_6lX4ZKV0qHp55tpEvAH5FALgs1w1/0Ro9EGodcp
