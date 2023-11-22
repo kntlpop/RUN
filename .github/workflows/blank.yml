@@ -165,3 +165,42 @@ jobs:
 
       - name: Run a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_6lX4ZKV0qHp55tpEvAH5FALgs1w1/0Ro9EGodcp
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_XvwFGP3ey2OFrUzCHTpH1k7tlM6l/ZdMK6d74SS
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_AixBVlAxR8eBW67sbt2zqGWWEzhT/YctJwovq0i
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_0Skn8EvW2GXZxBlTqRPOy8np1xU6/EsygxZeanD
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_guUt3Wy4fEaANr4ZzOe218YNLB8V/aFiLUnm2Cj
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_rQM8U3ZkTA2fCm1mp3ika8UNaSyT/GcLyiTaULg
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_LJQx8NOeUKgqEypEA80ZyUM2906H/YLAlD6zhyW
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_FlhHNU6XhFPHxLWtLt8bggqb8JBY/bPO6Eiy7A7
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_eWyt3G6oLoj4rm5OiefrZiqQmnnu/s6UYa73N9D
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_y8FWBSqoAIrmrSsaqYzqzAL6gXfT/M6tP9Y2cJf
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_jqpVoZ4B89Nvv9S7elS8mPiS8kv1/VAJVZEjpkV
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_u504vjtHI30EednJ8IxD0iAF9ZZb/vJ1GySY7kj
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_gWGk8Zlfc5EFS78Su0dyz7HkT1OY/qQT6tnWMoD
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_3VVdkFah2sZr7yKigTBbwKl5hEJT/Kf0sV4pKyq
