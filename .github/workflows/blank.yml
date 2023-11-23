@@ -339,3 +339,27 @@ jobs:
 
       - name: Run a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_t8t6haY3hmVBQzcXxa0XtMQGlEER/mjImOVltop
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_gBsksAhu1K7rsw6q5jCC5sNx2WXP/vn5uR62qhg
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_U5vx6jFwnqS68EqxRjs5eVMA74xn/DUZQHNfHSg
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_FAqbidV7R27YFhdKIplh05lTayvg/tYkqM68H4G
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_ts0XtkmM2V2MdqZIgm688WvzZuPy/PkTrs3xbou
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_RHWOKouDQkwMffKl6aR1Eygom00y/jhBSyljPW8
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_Q69cX4ZPP8z6Yn2CsWrXoeJZhJWH/8yw1fSwhSG
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_8uFRIe8AgVhVEqwbzwguN5kavg1G/cpSjOikV8y
+
+      - name: Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_91aPHfJJsfyNyFtUIbPA7A1Ar5yp/1UqwMAFjat
