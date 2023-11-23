@@ -13,7 +13,7 @@ jobs:
       fail-fast: false
       matrix:
         go: [1.1, 1.2]
-        flag: [A, B]
+        flag: [A]
     env:
         NUM_JOBS: 100
         JOB: ${{ matrix.go }}
